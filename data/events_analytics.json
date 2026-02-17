@@ -1,0 +1,210 @@
+{
+  "totalSessions": 688,
+  "totalSpeakers": 2973,
+  "totalDays": 5,
+  "totalRooms": 45,
+  "sessionsByDate": [
+    {
+      "date": "2026-02-16",
+      "count": 138
+    },
+    {
+      "date": "2026-02-17",
+      "count": 177
+    },
+    {
+      "date": "2026-02-18",
+      "count": 132
+    },
+    {
+      "date": "2026-02-19",
+      "count": 42
+    },
+    {
+      "date": "2026-02-20",
+      "count": 199
+    }
+  ],
+  "sessionsByRoom": [
+    {
+      "room": "Chanakya Auditorium",
+      "count": 52
+    },
+    {
+      "room": "Plenary Hall - A",
+      "count": 46
+    },
+    {
+      "room": "L1 Meeting Room No. 18",
+      "count": 35
+    },
+    {
+      "room": "L1 Meeting Room No. 15",
+      "count": 30
+    },
+    {
+      "room": "L1 Meeting Room No. 14",
+      "count": 29
+    },
+    {
+      "room": "L1 Meeting Room No. 6",
+      "count": 29
+    },
+    {
+      "room": "West Wing Room 4 A",
+      "count": 28
+    },
+    {
+      "room": "L2 Audi 2",
+      "count": 28
+    },
+    {
+      "room": "West Wing Room No. 6",
+      "count": 27
+    },
+    {
+      "room": "L1 Meeting Room No. 9",
+      "count": 27
+    },
+    {
+      "room": "West Wing Room 4 B",
+      "count": 26
+    },
+    {
+      "room": "L1 Meeting Room No. 16",
+      "count": 26
+    },
+    {
+      "room": "Nalanda Banquet",
+      "count": 24
+    },
+    {
+      "room": "L2 Audi 1",
+      "count": 23
+    },
+    {
+      "room": "L1 Meeting Room No. 10",
+      "count": 23
+    },
+    {
+      "room": "L1 Meeting Room No. 8",
+      "count": 22
+    },
+    {
+      "room": "L1 Meeting Room No. 17",
+      "count": 22
+    },
+    {
+      "room": "Shakuntalam Banquet",
+      "count": 22
+    },
+    {
+      "room": "L1 Meeting Room No. 19",
+      "count": 21
+    },
+    {
+      "room": "Plenary Hall - B",
+      "count": 18
+    },
+    {
+      "room": "L1 Meeting Room No. 7",
+      "count": 16
+    },
+    {
+      "room": "Hall No. 4 First Floor - Conference Room 2",
+      "count": 14
+    },
+    {
+      "room": "Hall No. 4 First Floor - Conference Room 3",
+      "count": 14
+    },
+    {
+      "room": "Hall No. 5 First Floor - Conference Room 1",
+      "count": 13
+    },
+    {
+      "room": "Hall No. 3 First Floor - Conference Room 4",
+      "count": 13
+    },
+    {
+      "room": "L3 Plenary Hall",
+      "count": 10
+    },
+    {
+      "room": "L2 Audi II",
+      "count": 8
+    },
+    {
+      "room": "L2 Summit Room",
+      "count": 8
+    },
+    {
+      "room": "Meeting Room 7, Level 1",
+      "count": 6
+    },
+    {
+      "room": "Plenary Hall B",
+      "count": 6
+    },
+    {
+      "room": "L1 Meeting Room 7",
+      "count": 3
+    },
+    {
+      "room": "L1 Meeting Room 18",
+      "count": 2
+    },
+    {
+      "room": "Amphitheatre",
+      "count": 2
+    },
+    {
+      "room": "Hall No. 3 First Floor - Session Hall 4",
+      "count": 2
+    },
+    {
+      "room": "L1 MR 8 and L2 Foyer",
+      "count": 2
+    },
+    {
+      "room": "L1 Meeting Room 16",
+      "count": 2
+    },
+    {
+      "room": "Amphitheater",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 15",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 10",
+      "count": 1
+    },
+    {
+      "room": "Room number 7 (200pax)",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 6",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 8",
+      "count": 1
+    },
+    {
+      "room": "#N/A",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 17",
+      "count": 1
+    },
+    {
+      "room": "L1 Meeting Room 9",
+      "count": 1
+    }
+  ]
+}

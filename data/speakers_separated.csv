@@ -1,0 +1,130 @@
+id,name,position,company,category,data_name
+1,Anastasia Stasenko,"Co-Founder & Chief Executive Officer (Co-Founder & CEO)","Pleias",Industry,anastasia stasenko
+2,Aarthi Subramanian,"Chief Operating Officer (COO) and Executive Director","Tata Consultancy Services",Industry,aarthi subramanian
+3,Anne Neuberger,"Strategic Advisor","Andreessen Horowitz (a16z)",Industry,Anne Neuberger
+4,Aparna Bawa,"Chief Operating Officer (COO)","Zoom",Industry,Aparna Bawa
+5,Burkhard Boeckem,"Chief Technology Officer (CTO)","Hexagon AB",Industry,Burkhard Boeckem
+6,Cristiano Amon,"Chief Executive Officer (CEO)","Qualcomm",Industry,Cristiano Amon
+7,Demis Hassabis,"Co-founder & Chief Executive Officer (CEO)","Google DeepMind",Industry,Demis Hassabis
+8,Giordano (Gio) Albertazzi,"Chief Executive Officer (CEO)","VERTIV",Industry,Giordano (Gio) Albertazzi
+9,Ivana Bartoletti,"Vice President","Wipro",Industry,Ivana Bartoletti
+10,Jason Oxman,"President and CEO","Information Technology Industry Council (ITI)",Industry,Jason Oxman
+11,Jeetu Patel,"President & Chief Product Officer","Cisco",Industry,Jeetu Patel
+12,Jeff (Jeffrey) Shapiro,"Chief Executive Officer (CEO)","Scanline VFX",Industry,Jeff (Jeffrey) Shapiro
+13,Jensen Huang,"Founder, President & Chief Executive Officer (CEO)","NVIDIA",Industry,Jensen Huang
+14,K Krithivasan,"Chief Executive Officer (CEO) and Managing Director","Tata Consultancy Services",Industry,K Krithivasan
+15,Mukesh Ambani,"Chairman & Managing Director (Chairman & MD)","Reliance Industries Limited",Industry,Mukesh Ambani
+16,Nandan Nilekani,"Co-Founder and Chairman","Infosys Technologies Limited",Industry,Nandan Nilekani
+17,Olivier Blum,"Chief Executive Officer (CEO)","Schneider Electric",Industry,Olivier Blum
+18,Roy Jakobs,"Chief Executive Officer (CEO)","Royal Philips",Industry,Roy Jakobs
+19,Dario Amodei,"Chief Executive Officer (CEO)","Anthropic",Industry,Dario Amodei
+20,Vijay Guntur,"Chief Technology Officer (CTO)","HCL Tech",Industry,Vijay Guntur
+21,Ajay Vij,"Senior Country Managing Director","Accenture India",Industry,Ajay Vij
+22,Akhilesh Tuteja,"Head of Clients & Industries","KPMG India",Industry,Akhilesh Tuteja
+23,C Vijayakumar,"CEO & Managing Director","HCLTech",Industry,C Vijayakumar
+24,David Zapolsky,"Chief Global Affairs and Legal Officer","Amazon",Industry,David Zapolsky
+25,Jay Chaudhry,"Chief Executive Officer (CEO), Chairman, and Founder","Zscaler",Industry,Jay Chaudhry
+26,Mike Haley,"Senior Vice President, Research","Autodesk",Industry,Mike Haley
+27,Nikesh Arora,"Chairman and Chief Executive Officer (CEO)","Palo Alto Networks",Industry,Nikesh Arora
+28,Pallavi Mahajan,"Global Chief Technology and AI Officer","Nokia",Industry,Pallavi Mahajan
+29,Roshni Nadar Malhotra,"Chairperson","HCLTech",Industry,Roshni Nadar Malhotra
+30,Ruchika Panesar,"Chief Information Officer (CIO), Group COO","NatWest Group",Industry,Ruchika Panesar
+31,Natalie Black,"Group Director (Communications & Networks) and Executive Board Member","Ofcom",Industry,Natalie Black
+32,Richard Marko,"Chief Executive Officer (CEO)","ESET",Industry,Richard Marko
+33,Dame Melanie Dawes,"Chief Executive","Ofcom",Industry,Dame Melanie Dawes
+34,Harita Gupta,"Head of Global Experience","Sutherland Global",Industry,Harita Gupta
+35,Prativa Mohapatra,"Managing Director","Adobe India",Industry,Prativa Mohapatra
+36,Prith Banerjee,"Senior Vice President of Innovation","Synopsys",Industry,Prith Banerjee
+37,Sundar Pichai,"CEO","Google and Alphabet",Industry,Sundar Pichai
+38,Victoria Espinel,"CEO","Business Software Alliance",Industry,Victoria Espinel
+39,Sameer Jain,"Founder & CEO","Net Solutions",Industry,Sameer Jain
+40,Santhosh Viswanathan,"MD & Vice President, India region","Intel",Industry,Santhosh Viswanathan
+41,Alexandr Wang,"Chief AI Officer","Meta",Industry,Alexandr Wang
+42,Amit Zavery,"President, Chief Product Officer and Chief Operating Officer","Servicenow",Industry,Amit Zavery
+43,Natarajan Chandrasekaran,"Chairman","Tata Sons",Industry,Natarajan Chandrasekaran
+44,Rahul Singh,"COO - Corporate Functions","HCLTech",Industry,Rahul Singh
+45,Sunil Bharti Mittal,"Founder and Chairman","Bharti Enterprises",Industry,Sunil Bharti Mittal
+46,Matthew Prince,"Co-Founder and CEO","Cloudflare",Industry,Matthew Prince
+47,Borje Ekholm,"President & CEO","Ericsson Group",Industry,Borje Ekholm
+48,Erik Ekudden,"Chief Technology Officer (CTO)","Ericsson",Industry,Erik Ekudden
+49,James Manyika,"President, Research","Labs, Technology & Society, Google and Alphabet",Industry,James Manyika
+50,Kunal Bahl,"Joint Managing Director","Acevector",Industry,Kunal Bahl
+51,Rajesh Subramaniam,"CEO & President","FedEx",Industry,Rajesh Subramaniam
+52,Harshil Mathur,"CEO and Co-Founder","Razorpay",Industry,Harshil Mathur
+53,Ibrahim Hafeezur Rehman,"Officiating Director-General","NAMTECH",Industry,Ibrahim Hafeezur Rehman
+54,Jorge Solis,"CEO","Soufflet Malt",Industry,Jorge Solis
+55,Julie Sweet,"Chair & CEO","Accenture",Industry,Julie Sweet
+56,Lars Reger,"Executive Vice President and Chief Technology Officer","NXP Semiconductors",Industry,Lars Reger
+57,Sanjay Sharma,"Vice President","ArcelorMittal",Industry,Sanjay Sharma
+58,Ana Paula Assis,"Senior Vice President & Chair Asia Pacific and EMEA","IBM Corporation",Industry,Ana Paula Assis
+59,Anne Robinson,"Senior Vice President & Chief Legal Officer","IBM Corporation",Industry,Anne Robinson
+60,Brad Smith,"President & Vice Chair","Microsoft",Industry,Brad Smith
+61,Salil Parekh,"CEO & MD","Infosys",Industry,Salil Parekh
+62,BVR Mohan Reddy,"Founder & Chairman","Cyient Ltd",Industry,BVR Mohan Reddy
+63,Martin Schroeter,"Chairman & CEO","Kyndryl",Industry,Martin Schroeter
+64,Amanda Brock,"Chief Executive Officer (CEO)","OpenUK",Academia & Civil Society,Amanda Brock
+65,Anna Tumadóttir,"Chief Executive Officer (CEO)","Creative Commons",Academia & Civil Society,Anna Tumadóttir
+66,Bill Gates,"Chair","Gates Foundation",Academia & Civil Society,Bill Gates
+67,Børge Brende,"President and CEO","World Economic Forum",Academia & Civil Society,Børge Brende
+68,J. Trevor Hughes,"President & CEO","IAPP",Academia & Civil Society,J. Trevor Hughes
+69,Prof. Raj Reddy,"Professor, Computer Science and Robotics in the School","Computer Science,Carnegie Mellon University",Academia & Civil Society,Prof. Raj Reddy
+70,Mustafa Furniturewala,"Chief Technology Officer (CTO)","Coursera",Academia & Civil Society,Mustafa Furniturewala
+71,Carme Artigas Brugal,"Senior Fellow","Harvard Belfer Center & ADIALab (UAE)",Academia & Civil Society,Carme Artigas Brugal
+72,Eric Grimson,"Chancellor for Academic Advancement, Massachusetts Institute","Technology",Academia & Civil Society,Eric Grimson
+73,Nikhila Natarajan,"Adjunct Professor - School of Communication and Information, Rutgers, The State University","New Jersey",Academia & Civil Society,Nikhila Natarajan
+74,Rao Charagondla,"Chief Financial Officer","IIT Bay Area Alumni",Academia & Civil Society,Rao Charagondla
+75,Fei Fei Li,"Professor of Computer Science Stanford University","",Academia & Civil Society,Fei Fei Li
+76,Stuart J Russel,"Professor, University","California, Berkeley",Academia & Civil Society,Stuart J Russel
+77,Yoshua Bengio,"Founder & Chair","Mila Institute",Academia & Civil Society,Yoshua Bengio
+78,Dr. Bonnie Kruft,"Partner & Dy. Director","Microsoft Research",Other,Dr. Bonnie Kruft
+79,Dr. Pushmeet Kohli,"VP of Science","Google DeepMind",Other,Dr. Pushmeet Kohli
+80,Dr. Sara Hooker,"Co-Founder","Adaption Labs",Other,Dr. Sara Hooker
+81,Kalyan Kumar,"Chief Product Officer","HCL Software",Other,Kalyan Kumar
+82,Prof. Alison Noble,"Professor of Engineering, University","Oxford",Other,Prof. Alison Noble
+83,Prof. Dame Wendy Hall,"Professor of Computer Science, University","Southampton",Other,Prof. Dame Wendy Hall
+84,Prof. Neil Lawrence,"DeepMind Professor of ML, University","Cambridge",Other,Prof. Neil Lawrence
+85,Prof. Priya Donti,"Asst. Professor, EECS & LIDS, Massachusetts Institute","Technology",Other,Prof. Priya Donti
+86,Prof. Somesh Jha,"Professor of Computer Science, University","Wisconsin–Madison",Other,Prof. Somesh Jha
+87,Prof. Vukosi Marivate,"Professor of Computer Science, University","Pretoria",Other,Prof. Vukosi Marivate
+88,Prof. Yann LeCun,"Professor of CS, NYU & Exec Chairman","AMI Labs",Other,Prof. Yann LeCun
+89,Shobana Kamineni,"Executive Chairperson","Apollo HealthCo",Other,Shobana Kamineni
+90,Dr. Anand Deshpande,"Founder, Chairman, and Managing Director","Persistent Systems",Other,Dr. Anand Deshpande
+91,Dr. Kalika Bali,"Senior Principal Researcher","Microsoft Research",Other,Dr. Kalika Bali
+92,Dr. Manish Gupta,"Senior Director","Google DeepMind",Other,Dr. Manish Gupta
+93,Dr. Venkat Padmanabhan,"Managing Director","Microsoft Research",Other,Dr. Venkat Padmanabhan
+94,Jeet Adani,"Director","Adani Airport Holdings Ltd. and Adani Digital Labs",Other,Jeet Adani
+95,Martin Tisné,"Founder and Chair","CurrentAI",Other,Martin Tisné
+96,Natasha Crampton,"Vice President, Chief Responsible AI Officer","Microsoft",Other,Natasha Crampton
+97,Prof. Alice Oh,"Professor, Korea Advanced Institute","Science & Technology",Other,Prof. Alice Oh
+98,Prof. Anima Anandkumar,"Prof of Computing & Mathematical Sc","Caltech",Other,Prof. Anima Anandkumar
+99,Prof. Balaraman Ravindaran,"Head, Department","Data Science & AI, IIT Madras",Other,Prof. Balaraman Ravindaran
+100,Prof. P J Narayanan,"Professor former Director, International Institute","Information Technology Hyderabad (IIITH)",Other,Prof. P J Narayanan
+101,Prof. Ramesh Raskar,"Associate Professor of Media Arts & Sc","MIT Media Labs",Other,Prof. Ramesh Raskar
+102,Prof. Subbarao Kambhampati,"Professor of Computing & Augmented Intelligence","Arizona State University",Other,Prof. Subbarao Kambhampati
+103,Prof. Surya Ganguli,"Associate Professor of Applied Physics & Comp Sc","Stanford University",Other,Prof. Surya Ganguli
+104,Prof. Torsten Schwede,"President","Swiss National Science Foundation",Other,Prof. Torsten Schwede
+105,Ravi Kumar S,"Chief Executive Officer","Cognizant",Other,Ravi Kumar S
+106,Sam Altman,"CEO","OpenAI",Other,Sam Altman
+107,Bipul Sinha,"CEO, Chairman and Co-Founder","Rubrik",Other,Bipul Sinha
+108,Hemant Taneja,"CEO","General Catalyst",Other,Hemant Taneja
+109,Kiran Mazumdar-Shaw,"Chairperson","Biocon Group",Other,Kiran Mazumdar-Shaw
+110,Raj Koneru,"CEO","Kore.ai",Other,Raj Koneru
+111,Takahito Tokita,"Representative Director, CEO","Fujitsu Limited",Other,Takahito Tokita
+112,Arthur Mensch,"Co-Founder and CEO","Mistral AI",Other,Arthur Mensch
+113,Arundhati Bhattacharya,"Chairperson & CEO","Salesforce India",Other,Arundhati Bhattacharya
+114,Bejul Somaia,"Partner","Lightspeed",Other,Bejul Somaia
+115,Dr. Aisha Walcott-Byrant,"Head of Research","Google Africa",Other,Dr. Aisha Walcott-Byrant
+116,Dr. Jacki O'Neill,"Director","Microsoft Research, Africa",Other,Dr. Jacki O'Neill
+117,Dr. Liming Zhu,"Head of the AI & Digital Division","CSIRO",Other,Dr. Liming Zhu
+118,Dr. Shivkumar Kalyanaraman,"CEO","Anusandhan National Research Foundation (ANRF)",Other,Dr. Shivkumar Kalyanaraman
+119,Dr. Sunayana Sitaram,"Principal Researcher","Microsoft Research",Other,Dr. Sunayana Sitaram
+120,Navrina Singh,"Founder & CEO","Credo AI",Other,Navrina Singh
+121,Prof. Aditya Vashishtha,"Asst Professor of Information Science","Cornell University",Other,Prof. Aditya Vashishtha
+122,Prof. Monojit Choudhary,"Professor of NLP","MBZUAI",Other,Prof. Monojit Choudhary
+123,Prof. Nicholas Davis,"Prof of Emerging Technology","U/o Technology Sydney",Other,Prof. Nicholas Davis
+124,Umesh Sachdev,"CEO and Co-founder","Uniphore",Other,Umesh Sachdev
+125,Vishal Sikka,"Founder and CEO","Vianai Systems",Other,Vishal Sikka
+126,Vivek Mahajan,"CTO","Fujitsu Limited",Other,Vivek Mahajan
+127,Ravi Mhatre,"Partner and Co-Founder","Lightspeed",Other,Ravi Mhatre
+128,Seema Ambastha,"Chief Executive","Larsen & Toubro - Vyoma",Other,Seema Ambastha
+129,Tony Blair,"Executive Chairman","Tony Blair Institute for Global Change",Other,Tony Blair

@@ -1,0 +1,1037 @@
+{
+  "total": 129,
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Anastasia Stasenko",
+      "designation": "Co-Founder & Chief Executive Officer (Co-Founder & CEO), Pleias",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/anastasia-stasenko.png",
+      "data_name": "anastasia stasenko"
+    },
+    {
+      "id": 2,
+      "name": "Aarthi Subramanian",
+      "designation": "Chief Operating Officer (COO) and Executive Director, Tata Consultancy Services",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/aarth-subramanian.png",
+      "data_name": "aarthi subramanian"
+    },
+    {
+      "id": 3,
+      "name": "Anne Neuberger",
+      "designation": "Strategic Advisor, Andreessen Horowitz (a16z)",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/anne-neuberger.png",
+      "data_name": "Anne Neuberger"
+    },
+    {
+      "id": 4,
+      "name": "Aparna Bawa",
+      "designation": "Chief Operating Officer (COO), Zoom",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/aparna-bawa.png",
+      "data_name": "Aparna Bawa"
+    },
+    {
+      "id": 5,
+      "name": "Burkhard Boeckem",
+      "designation": "Chief Technology Officer (CTO), Hexagon AB",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/burkhard-boeckem.png",
+      "data_name": "Burkhard Boeckem"
+    },
+    {
+      "id": 6,
+      "name": "Cristiano Amon",
+      "designation": "Chief Executive Officer (CEO), Qualcomm",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/cristiano-amon.png",
+      "data_name": "Cristiano Amon"
+    },
+    {
+      "id": 7,
+      "name": "Demis Hassabis",
+      "designation": "Co-founder & Chief Executive Officer (CEO), Google DeepMind",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/demis-hassabis.png",
+      "data_name": "Demis Hassabis"
+    },
+    {
+      "id": 8,
+      "name": "Giordano (Gio) Albertazzi",
+      "designation": "Chief Executive Officer (CEO), VERTIV",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/giordano-albertazzi.png",
+      "data_name": "Giordano (Gio) Albertazzi"
+    },
+    {
+      "id": 9,
+      "name": "Ivana Bartoletti",
+      "designation": "Vice President, Wipro",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ivana-bartoletti.png",
+      "data_name": "Ivana Bartoletti"
+    },
+    {
+      "id": 10,
+      "name": "Jason Oxman",
+      "designation": "President and CEO, Information Technology Industry Council (ITI)",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jason-oxman.png",
+      "data_name": "Jason Oxman"
+    },
+    {
+      "id": 11,
+      "name": "Jeetu Patel",
+      "designation": "President & Chief Product Officer, Cisco",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jeetu-patel.png",
+      "data_name": "Jeetu Patel"
+    },
+    {
+      "id": 12,
+      "name": "Jeff (Jeffrey) Shapiro",
+      "designation": "Chief Executive Officer (CEO), Scanline VFX",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jeff-shapiro.png",
+      "data_name": "Jeff (Jeffrey) Shapiro"
+    },
+    {
+      "id": 13,
+      "name": "Jensen Huang",
+      "designation": "Founder, President & Chief Executive Officer (CEO), NVIDIA",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jensen-huang.png",
+      "data_name": "Jensen Huang"
+    },
+    {
+      "id": 14,
+      "name": "K Krithivasan",
+      "designation": "Chief Executive Officer (CEO) and Managing Director, Tata Consultancy Services",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/k-krithivasan.png",
+      "data_name": "K Krithivasan"
+    },
+    {
+      "id": 15,
+      "name": "Mukesh Ambani",
+      "designation": "Chairman & Managing Director (Chairman & MD), Reliance Industries Limited",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/mukesh-ambani.png",
+      "data_name": "Mukesh Ambani"
+    },
+    {
+      "id": 16,
+      "name": "Nandan Nilekani",
+      "designation": "Co-Founder and Chairman, Infosys Technologies Limited",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/nandan-nilekani.png",
+      "data_name": "Nandan Nilekani"
+    },
+    {
+      "id": 17,
+      "name": "Olivier Blum",
+      "designation": "Chief Executive Officer (CEO), Schneider Electric",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/olivier-blum.png",
+      "data_name": "Olivier Blum"
+    },
+    {
+      "id": 18,
+      "name": "Roy Jakobs",
+      "designation": "Chief Executive Officer (CEO), Royal Philips",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/roy-jakobs.png",
+      "data_name": "Roy Jakobs"
+    },
+    {
+      "id": 19,
+      "name": "Dario Amodei",
+      "designation": "Chief Executive Officer (CEO), Anthropic",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dario_amodei.webp",
+      "data_name": "Dario Amodei"
+    },
+    {
+      "id": 20,
+      "name": "Vijay Guntur",
+      "designation": "Chief Technology Officer (CTO), HCL Tech",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/Vijay-Guntur.png",
+      "data_name": "Vijay Guntur"
+    },
+    {
+      "id": 21,
+      "name": "Ajay Vij",
+      "designation": "Senior Country Managing Director, Accenture India",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ajay_vij.webp",
+      "data_name": "Ajay Vij"
+    },
+    {
+      "id": 22,
+      "name": "Akhilesh Tuteja",
+      "designation": "Head of Clients & Industries, KPMG India",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/akhilesh_tuteja.webp",
+      "data_name": "Akhilesh Tuteja"
+    },
+    {
+      "id": 23,
+      "name": "C Vijayakumar",
+      "designation": "CEO & Managing Director, HCLTech",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/c_vijayakumar.webp",
+      "data_name": "C Vijayakumar"
+    },
+    {
+      "id": 24,
+      "name": "David Zapolsky",
+      "designation": "Chief Global Affairs and Legal Officer, Amazon",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/david_zapolsky.webp",
+      "data_name": "David Zapolsky"
+    },
+    {
+      "id": 25,
+      "name": "Jay Chaudhry",
+      "designation": "Chief Executive Officer (CEO), Chairman, and Founder, Zscaler",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jay_chaudhry.webp",
+      "data_name": "Jay Chaudhry"
+    },
+    {
+      "id": 26,
+      "name": "Mike Haley",
+      "designation": "Senior Vice President, Research, Autodesk",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/mike_haley.webp",
+      "data_name": "Mike Haley"
+    },
+    {
+      "id": 27,
+      "name": "Nikesh Arora",
+      "designation": "Chairman and Chief Executive Officer (CEO), Palo Alto Networks",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/nikesh_arora.webp",
+      "data_name": "Nikesh Arora"
+    },
+    {
+      "id": 28,
+      "name": "Pallavi Mahajan",
+      "designation": "Global Chief Technology and AI Officer, Nokia",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/pallavi_mahajan.webp",
+      "data_name": "Pallavi Mahajan"
+    },
+    {
+      "id": 29,
+      "name": "Roshni Nadar Malhotra",
+      "designation": "Chairperson, HCLTech",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/roshni_nadar.webp",
+      "data_name": "Roshni Nadar Malhotra"
+    },
+    {
+      "id": 30,
+      "name": "Ruchika Panesar",
+      "designation": "Chief Information Officer (CIO), Group COO, NatWest Group",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ruchika_panesar.webp",
+      "data_name": "Ruchika Panesar"
+    },
+    {
+      "id": 31,
+      "name": "Natalie Black",
+      "designation": "Group Director (Communications & Networks) and Executive Board Member, Ofcom",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/natalie_black.webp",
+      "data_name": "Natalie Black"
+    },
+    {
+      "id": 32,
+      "name": "Richard Marko",
+      "designation": "Chief Executive Officer (CEO), ESET",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/richard_marko.webp",
+      "data_name": "Richard Marko"
+    },
+    {
+      "id": 33,
+      "name": "Dame Melanie Dawes",
+      "designation": "Chief Executive, Ofcom",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dame.webp",
+      "data_name": "Dame Melanie Dawes"
+    },
+    {
+      "id": 34,
+      "name": "Harita Gupta",
+      "designation": "Head of Global Experience, Sutherland Global",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/harita_gupta.webp",
+      "data_name": "Harita Gupta"
+    },
+    {
+      "id": 35,
+      "name": "Prativa Mohapatra",
+      "designation": "Managing Director, Adobe India",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prativa.webp",
+      "data_name": "Prativa Mohapatra"
+    },
+    {
+      "id": 36,
+      "name": "Prith Banerjee",
+      "designation": "Senior Vice President of Innovation, Synopsys",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prith.webp",
+      "data_name": "Prith Banerjee"
+    },
+    {
+      "id": 37,
+      "name": "Sundar Pichai",
+      "designation": "CEO, Google and Alphabet",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/sundar_pichai.webp",
+      "data_name": "Sundar Pichai"
+    },
+    {
+      "id": 38,
+      "name": "Victoria Espinel",
+      "designation": "CEO, Business Software Alliance",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/victoria.webp",
+      "data_name": "Victoria Espinel"
+    },
+    {
+      "id": 39,
+      "name": "Sameer Jain",
+      "designation": "Founder & CEO, Net Solutions",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/sameer_jain.webp",
+      "data_name": "Sameer Jain"
+    },
+    {
+      "id": 40,
+      "name": "Santhosh Viswanathan",
+      "designation": "MD & Vice President, India region, Intel",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/santhosh.webp",
+      "data_name": "Santhosh Viswanathan"
+    },
+    {
+      "id": 41,
+      "name": "Alexandr Wang",
+      "designation": "Chief AI Officer, Meta",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/alexandr_wang.webp",
+      "data_name": "Alexandr Wang"
+    },
+    {
+      "id": 42,
+      "name": "Amit Zavery",
+      "designation": "President, Chief Product Officer and Chief Operating Officer, Servicenow",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/amit_zavery.webp",
+      "data_name": "Amit Zavery"
+    },
+    {
+      "id": 43,
+      "name": "Natarajan Chandrasekaran",
+      "designation": "Chairman, Tata Sons",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/natarajan_chandrasekaran.webp",
+      "data_name": "Natarajan Chandrasekaran"
+    },
+    {
+      "id": 44,
+      "name": "Rahul Singh",
+      "designation": "COO - Corporate Functions, HCLTech",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/rahul_singh.webp",
+      "data_name": "Rahul Singh"
+    },
+    {
+      "id": 45,
+      "name": "Sunil Bharti Mittal",
+      "designation": "Founder and Chairman, Bharti Enterprises",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/sunil_bharti_mittal.webp",
+      "data_name": "Sunil Bharti Mittal"
+    },
+    {
+      "id": 46,
+      "name": "Matthew Prince",
+      "designation": "Co-Founder and CEO, Cloudflare",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/matthew_prince.webp",
+      "data_name": "Matthew Prince"
+    },
+    {
+      "id": 47,
+      "name": "Borje Ekholm",
+      "designation": "President & CEO, Ericsson Group",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/borje_ekholm.webp",
+      "data_name": "Borje Ekholm"
+    },
+    {
+      "id": 48,
+      "name": "Erik Ekudden",
+      "designation": "Chief Technology Officer (CTO), Ericsson",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/erik_ekudden.webp",
+      "data_name": "Erik Ekudden"
+    },
+    {
+      "id": 49,
+      "name": "James Manyika",
+      "designation": "President, Research, Labs, Technology & Society, Google and Alphabet",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/james_manyika.webp",
+      "data_name": "James Manyika"
+    },
+    {
+      "id": 50,
+      "name": "Kunal Bahl",
+      "designation": "Joint Managing Director, Acevector",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/kunal_bahl.webp",
+      "data_name": "Kunal Bahl"
+    },
+    {
+      "id": 51,
+      "name": "Rajesh Subramaniam",
+      "designation": "CEO & President, FedEx",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/rajesh_subramaniam.webp",
+      "data_name": "Rajesh Subramaniam"
+    },
+    {
+      "id": 52,
+      "name": "Harshil Mathur",
+      "designation": "CEO and Co-Founder, Razorpay",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/harshil_mathur.webp",
+      "data_name": "Harshil Mathur"
+    },
+    {
+      "id": 53,
+      "name": "Ibrahim Hafeezur Rehman",
+      "designation": "Officiating Director-General, NAMTECH",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/ibrahim_hafeezur_rehman.webp",
+      "data_name": "Ibrahim Hafeezur Rehman"
+    },
+    {
+      "id": 54,
+      "name": "Jorge Solis",
+      "designation": "CEO, Soufflet Malt",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/jorge_solis.webp",
+      "data_name": "Jorge Solis"
+    },
+    {
+      "id": 55,
+      "name": "Julie Sweet",
+      "designation": "Chair & CEO, Accenture",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/julie_sweet.webp",
+      "data_name": "Julie Sweet"
+    },
+    {
+      "id": 56,
+      "name": "Lars Reger",
+      "designation": "Executive Vice President and Chief Technology Officer, NXP Semiconductors",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/lars_reger.webp",
+      "data_name": "Lars Reger"
+    },
+    {
+      "id": 57,
+      "name": "Sanjay Sharma",
+      "designation": "Vice President, ArcelorMittal",
+      "category": "Industry",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/sanjay_sharma.webp",
+      "data_name": "Sanjay Sharma"
+    },
+    {
+      "id": 58,
+      "name": "Ana Paula Assis",
+      "designation": "Senior Vice President & Chair Asia Pacific and EMEA, IBM Corporation",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ana_paula_assis.webp",
+      "data_name": "Ana Paula Assis"
+    },
+    {
+      "id": 59,
+      "name": "Anne Robinson",
+      "designation": "Senior Vice President & Chief Legal Officer, IBM Corporation",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/anne_robinson.webp",
+      "data_name": "Anne Robinson"
+    },
+    {
+      "id": 60,
+      "name": "Brad Smith",
+      "designation": "President & Vice Chair, Microsoft",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/brad_smith.webp",
+      "data_name": "Brad Smith"
+    },
+    {
+      "id": 61,
+      "name": "Salil Parekh",
+      "designation": "CEO & MD, Infosys",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/salil_parekh.webp",
+      "data_name": "Salil Parekh"
+    },
+    {
+      "id": 62,
+      "name": "BVR Mohan Reddy",
+      "designation": "Founder & Chairman, Cyient Ltd",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/bvr_mohan_reddy.webp",
+      "data_name": "BVR Mohan Reddy"
+    },
+    {
+      "id": 63,
+      "name": "Martin Schroeter",
+      "designation": "Chairman & CEO, Kyndryl",
+      "category": "Industry",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/martin_schroeter.webp",
+      "data_name": "Martin Schroeter"
+    },
+    {
+      "id": 64,
+      "name": "Amanda Brock",
+      "designation": "Chief Executive Officer (CEO), OpenUK",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/Amanda-Brock.png",
+      "data_name": "Amanda Brock"
+    },
+    {
+      "id": 65,
+      "name": "Anna Tumadóttir",
+      "designation": "Chief Executive Officer (CEO), Creative Commons",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/anna-tumadóttir.png",
+      "data_name": "Anna Tumadóttir"
+    },
+    {
+      "id": 66,
+      "name": "Bill Gates",
+      "designation": "Chair, Gates Foundation",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/bill-gates.png",
+      "data_name": "Bill Gates"
+    },
+    {
+      "id": 67,
+      "name": "Børge Brende",
+      "designation": "President and CEO, World Economic Forum",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/børge-brende.png",
+      "data_name": "Børge Brende"
+    },
+    {
+      "id": 68,
+      "name": "J. Trevor Hughes",
+      "designation": "President & CEO, IAPP",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/j-trevor-hughes.png",
+      "data_name": "J. Trevor Hughes"
+    },
+    {
+      "id": 69,
+      "name": "Prof. Raj Reddy",
+      "designation": "Professor, Computer Science and Robotics in the School of Computer Science,Carnegie Mellon University",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof-raj-reddy.png",
+      "data_name": "Prof. Raj Reddy"
+    },
+    {
+      "id": 70,
+      "name": "Mustafa Furniturewala",
+      "designation": "Chief Technology Officer (CTO), Coursera",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/mustafa.webp",
+      "data_name": "Mustafa Furniturewala"
+    },
+    {
+      "id": 71,
+      "name": "Carme Artigas Brugal",
+      "designation": "Senior Fellow, Harvard Belfer Center & ADIALab (UAE)",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/carme_artigas_brugal.webp",
+      "data_name": "Carme Artigas Brugal"
+    },
+    {
+      "id": 72,
+      "name": "Eric Grimson",
+      "designation": "Chancellor for Academic Advancement, Massachusetts Institute of Technology",
+      "category": "Academia & Civil Society",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/Eric-Grimson.webp",
+      "data_name": "Eric Grimson"
+    },
+    {
+      "id": 73,
+      "name": "Nikhila Natarajan",
+      "designation": "Adjunct Professor - School of Communication and Information, Rutgers, The State University of New Jersey",
+      "category": "Academia & Civil Society",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/nikhila_natarajan.webp",
+      "data_name": "Nikhila Natarajan"
+    },
+    {
+      "id": 74,
+      "name": "Rao Charagondla",
+      "designation": "Chief Financial Officer, IIT Bay Area Alumni",
+      "category": "Academia & Civil Society",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/Rao-Charagondla.webp",
+      "data_name": "Rao Charagondla"
+    },
+    {
+      "id": 75,
+      "name": "Fei Fei Li",
+      "designation": "Professor of Computer Science Stanford University",
+      "category": "Academia & Civil Society",
+      "image": "https://aiexpo.s3.ap-south-1.amazonaws.com/Assets/Speaker/Fei-Fei-Li.webp",
+      "data_name": "Fei Fei Li"
+    },
+    {
+      "id": 76,
+      "name": "Stuart J Russel",
+      "designation": "Professor, University of California, Berkeley",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/stuart_j_russel.webp",
+      "data_name": "Stuart J Russel"
+    },
+    {
+      "id": 77,
+      "name": "Yoshua Bengio",
+      "designation": "Founder & Chair, Mila Institute",
+      "category": "Academia & Civil Society",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/yoshua_bengio.webp",
+      "data_name": "Yoshua Bengio"
+    },
+    {
+      "id": 78,
+      "name": "Dr. Bonnie Kruft",
+      "designation": "Partner & Dy. Director, Microsoft Research",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_bonnie_kruft.webp",
+      "data_name": "Dr. Bonnie Kruft"
+    },
+    {
+      "id": 79,
+      "name": "Dr. Pushmeet Kohli",
+      "designation": "VP of Science, Google DeepMind",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_pushmeet_kohli.webp",
+      "data_name": "Dr. Pushmeet Kohli"
+    },
+    {
+      "id": 80,
+      "name": "Dr. Sara Hooker",
+      "designation": "Co-Founder, Adaption Labs",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_sara_hooker.webp",
+      "data_name": "Dr. Sara Hooker"
+    },
+    {
+      "id": 81,
+      "name": "Kalyan Kumar",
+      "designation": "Chief Product Officer, HCL Software",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/kalyan_kumar.webp",
+      "data_name": "Kalyan Kumar"
+    },
+    {
+      "id": 82,
+      "name": "Prof. Alison Noble",
+      "designation": "Professor of Engineering, University of Oxford",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_alison_noble.webp",
+      "data_name": "Prof. Alison Noble"
+    },
+    {
+      "id": 83,
+      "name": "Prof. Dame Wendy Hall",
+      "designation": "Professor of Computer Science, University of Southampton",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_dame_wendy_hall.webp",
+      "data_name": "Prof. Dame Wendy Hall"
+    },
+    {
+      "id": 84,
+      "name": "Prof. Neil Lawrence",
+      "designation": "DeepMind Professor of ML, University of Cambridge",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_neil_lawrence.webp",
+      "data_name": "Prof. Neil Lawrence"
+    },
+    {
+      "id": 85,
+      "name": "Prof. Priya Donti",
+      "designation": "Asst. Professor, EECS & LIDS, Massachusetts Institute of Technology",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_priya_donti.webp",
+      "data_name": "Prof. Priya Donti"
+    },
+    {
+      "id": 86,
+      "name": "Prof. Somesh Jha",
+      "designation": "Professor of Computer Science, University of Wisconsin–Madison",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_somesh_jha.webp",
+      "data_name": "Prof. Somesh Jha"
+    },
+    {
+      "id": 87,
+      "name": "Prof. Vukosi Marivate",
+      "designation": "Professor of Computer Science, University of Pretoria",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_vukosi_marivate.webp",
+      "data_name": "Prof. Vukosi Marivate"
+    },
+    {
+      "id": 88,
+      "name": "Prof. Yann LeCun",
+      "designation": "Professor of CS, NYU & Exec Chairman, AMI Labs",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_yann_lecun.webp",
+      "data_name": "Prof. Yann LeCun"
+    },
+    {
+      "id": 89,
+      "name": "Shobana Kamineni",
+      "designation": "Executive Chairperson, Apollo HealthCo",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/shobana_kamineni.webp",
+      "data_name": "Shobana Kamineni"
+    },
+    {
+      "id": 90,
+      "name": "Dr. Anand Deshpande",
+      "designation": "Founder, Chairman, and Managing Director of Persistent Systems",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_anand_deshpande.webp",
+      "data_name": "Dr. Anand Deshpande"
+    },
+    {
+      "id": 91,
+      "name": "Dr. Kalika Bali",
+      "designation": "Senior Principal Researcher, Microsoft Research",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_kalika_bali.webp",
+      "data_name": "Dr. Kalika Bali"
+    },
+    {
+      "id": 92,
+      "name": "Dr. Manish Gupta",
+      "designation": "Senior Director, Google DeepMind",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_manish_gupta.webp",
+      "data_name": "Dr. Manish Gupta"
+    },
+    {
+      "id": 93,
+      "name": "Dr. Venkat Padmanabhan",
+      "designation": "Managing Director, Microsoft Research",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_venkat_padmanabhan.webp",
+      "data_name": "Dr. Venkat Padmanabhan"
+    },
+    {
+      "id": 94,
+      "name": "Jeet Adani",
+      "designation": "Director, Adani Airport Holdings Ltd. and Adani Digital Labs",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jeet_adani.webp",
+      "data_name": "Jeet Adani"
+    },
+    {
+      "id": 95,
+      "name": "Martin Tisné",
+      "designation": "Founder and Chair, CurrentAI",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/martin_tisn_.webp",
+      "data_name": "Martin Tisné"
+    },
+    {
+      "id": 96,
+      "name": "Natasha Crampton",
+      "designation": "Vice President, Chief Responsible AI Officer, Microsoft",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/natasha_crampton.webp",
+      "data_name": "Natasha Crampton"
+    },
+    {
+      "id": 97,
+      "name": "Prof. Alice Oh",
+      "designation": "Professor, Korea Advanced Institute of Science & Technology",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_alice_oh.webp",
+      "data_name": "Prof. Alice Oh"
+    },
+    {
+      "id": 98,
+      "name": "Prof. Anima Anandkumar",
+      "designation": "Prof of Computing & Mathematical Sc, Caltech",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_anima_anandkumar.webp",
+      "data_name": "Prof. Anima Anandkumar"
+    },
+    {
+      "id": 99,
+      "name": "Prof. Balaraman Ravindaran",
+      "designation": "Head, Department of Data Science & AI, IIT Madras",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_balaraman_ravindaran.webp",
+      "data_name": "Prof. Balaraman Ravindaran"
+    },
+    {
+      "id": 100,
+      "name": "Prof. P J Narayanan",
+      "designation": "Professor former Director, International Institute of Information Technology Hyderabad (IIITH)",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_p_j_narayanan.webp",
+      "data_name": "Prof. P J Narayanan"
+    },
+    {
+      "id": 101,
+      "name": "Prof. Ramesh Raskar",
+      "designation": "Associate Professor of Media Arts & Sc, MIT Media Labs",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_ramesh_raskar.webp",
+      "data_name": "Prof. Ramesh Raskar"
+    },
+    {
+      "id": 102,
+      "name": "Prof. Subbarao Kambhampati",
+      "designation": "Professor of Computing & Augmented Intelligence, Arizona State University",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_subbarao_kambhampati.webp",
+      "data_name": "Prof. Subbarao Kambhampati"
+    },
+    {
+      "id": 103,
+      "name": "Prof. Surya Ganguli",
+      "designation": "Associate Professor of Applied Physics & Comp Sc, Stanford University",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_surya_ganguli.webp",
+      "data_name": "Prof. Surya Ganguli"
+    },
+    {
+      "id": 104,
+      "name": "Prof. Torsten Schwede",
+      "designation": "President , Swiss National Science Foundation",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_torsten_schwede.webp",
+      "data_name": "Prof. Torsten Schwede"
+    },
+    {
+      "id": 105,
+      "name": "Ravi Kumar S",
+      "designation": "Chief Executive Officer, Cognizant",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ravi_kumar_s.webp",
+      "data_name": "Ravi Kumar S"
+    },
+    {
+      "id": 106,
+      "name": "Sam Altman",
+      "designation": "CEO, OpenAI",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/sam_altman.webp",
+      "data_name": "Sam Altman"
+    },
+    {
+      "id": 107,
+      "name": "Bipul Sinha",
+      "designation": "CEO, Chairman and Co-Founder, Rubrik",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/bipul_sinha.webp",
+      "data_name": "Bipul Sinha"
+    },
+    {
+      "id": 108,
+      "name": "Hemant Taneja",
+      "designation": "CEO, General Catalyst",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/hemant_taneja.webp",
+      "data_name": "Hemant Taneja"
+    },
+    {
+      "id": 109,
+      "name": "Kiran Mazumdar-Shaw",
+      "designation": "Chairperson, Biocon Group",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/kiran_mazumdar_shaw.webp",
+      "data_name": "Kiran Mazumdar-Shaw"
+    },
+    {
+      "id": 110,
+      "name": "Raj Koneru",
+      "designation": "CEO, Kore.ai",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/raj_koneru.webp",
+      "data_name": "Raj Koneru"
+    },
+    {
+      "id": 111,
+      "name": "Takahito Tokita",
+      "designation": "Representative Director, CEO, Fujitsu Limited",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/takahito_tokita.webp",
+      "data_name": "Takahito Tokita"
+    },
+    {
+      "id": 112,
+      "name": "Arthur Mensch",
+      "designation": "Co-Founder and CEO, Mistral AI",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/arthur_mensch.webp",
+      "data_name": "Arthur Mensch"
+    },
+    {
+      "id": 113,
+      "name": "Arundhati Bhattacharya",
+      "designation": "Chairperson & CEO, Salesforce India",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/arundhati.webp",
+      "data_name": "Arundhati Bhattacharya"
+    },
+    {
+      "id": 114,
+      "name": "Bejul Somaia",
+      "designation": "Partner, Lightspeed",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/bejul_somaia.webp",
+      "data_name": "Bejul Somaia"
+    },
+    {
+      "id": 115,
+      "name": "Dr. Aisha Walcott-Byrant",
+      "designation": "Head of Research, Google Africa",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/aisha.webp",
+      "data_name": "Dr. Aisha Walcott-Byrant"
+    },
+    {
+      "id": 116,
+      "name": "Dr. Jacki O'Neill",
+      "designation": "Director, Microsoft Research, Africa",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/jacki_o_neill.webp",
+      "data_name": "Dr. Jacki O'Neill"
+    },
+    {
+      "id": 117,
+      "name": "Dr. Liming Zhu",
+      "designation": "Head of the AI & Digital Division, CSIRO",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_liming_zhu.webp",
+      "data_name": "Dr. Liming Zhu"
+    },
+    {
+      "id": 118,
+      "name": "Dr. Shivkumar Kalyanaraman",
+      "designation": "CEO, Anusandhan National Research Foundation (ANRF)",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/shivkumar.webp",
+      "data_name": "Dr. Shivkumar Kalyanaraman"
+    },
+    {
+      "id": 119,
+      "name": "Dr. Sunayana Sitaram",
+      "designation": "Principal Researcher, Microsoft Research",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/dr_sunayana_sitaram.webp",
+      "data_name": "Dr. Sunayana Sitaram"
+    },
+    {
+      "id": 120,
+      "name": "Navrina Singh",
+      "designation": "Founder & CEO, Credo AI",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/navrina_singh.webp",
+      "data_name": "Navrina Singh"
+    },
+    {
+      "id": 121,
+      "name": "Prof. Aditya Vashishtha",
+      "designation": "Asst Professor of Information Science, Cornell University",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/aditya_vashishtha.webp",
+      "data_name": "Prof. Aditya Vashishtha"
+    },
+    {
+      "id": 122,
+      "name": "Prof. Monojit Choudhary",
+      "designation": "Professor of NLP, MBZUAI",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/monojit_choudhary.webp",
+      "data_name": "Prof. Monojit Choudhary"
+    },
+    {
+      "id": 123,
+      "name": "Prof. Nicholas Davis",
+      "designation": "Prof of Emerging Technology, U/o Technology Sydney",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/prof_nicholas_davis.webp",
+      "data_name": "Prof. Nicholas Davis"
+    },
+    {
+      "id": 124,
+      "name": "Umesh Sachdev",
+      "designation": "CEO and Co-founder, Uniphore",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/umesh_sachdev.webp",
+      "data_name": "Umesh Sachdev"
+    },
+    {
+      "id": 125,
+      "name": "Vishal Sikka",
+      "designation": "Founder and CEO, Vianai Systems",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/vishal_sikka.webp",
+      "data_name": "Vishal Sikka"
+    },
+    {
+      "id": 126,
+      "name": "Vivek Mahajan",
+      "designation": "CTO, Fujitsu Limited",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/vivek_mahajan.webp",
+      "data_name": "Vivek Mahajan"
+    },
+    {
+      "id": 127,
+      "name": "Ravi Mhatre",
+      "designation": "Partner and Co-Founder, Lightspeed",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/ravi_mhatre.webp",
+      "data_name": "Ravi Mhatre"
+    },
+    {
+      "id": 128,
+      "name": "Seema Ambastha",
+      "designation": "Chief Executive, Larsen & Toubro - Vyoma",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/seema.webp",
+      "data_name": "Seema Ambastha"
+    },
+    {
+      "id": 129,
+      "name": "Tony Blair",
+      "designation": "Executive Chairman, Tony Blair Institute for Global Change",
+      "category": "Other",
+      "image": "https://www.impactexpo.indiaai.gov.in/images/home-speaker-img/tony_blair.webp",
+      "data_name": "Tony Blair"
+    }
+  ]
+}
